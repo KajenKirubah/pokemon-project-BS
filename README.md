@@ -42,3 +42,13 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+----------
+
+## pokemon game
+this is a pokemon battle simulator, none of the things on it aside from the code belong to me, not for profit and is just for educational purposes.  thanks for understanding.
+
+all data is pulled from pokeapi.co
+
+only functionality for now is the attack method.  Eventually I want to add pokeballs, and other stuff.  Maybe even a map where a player can move around in.
