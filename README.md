@@ -52,3 +52,4 @@ this is a pokemon battle simulator, none of the things on it aside from the code
 all data is pulled from pokeapi.co
 
 only functionality for now is the attack method.  Eventually I want to add pokeballs, and other stuff.  Maybe even a map where a player can move around in.
+anything else not sure.

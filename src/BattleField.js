@@ -61,6 +61,10 @@ export default class BattleField extends Component {
 
 
   render() {
+
+    if(isTurn) {
+        console.log('something');
+    }
     return (
       <div className='battleField'>
           <div className='battleField-pokemons'>
